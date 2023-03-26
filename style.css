@@ -191,7 +191,7 @@ h2{
 }
 
 .recommendation{
-    width: 53%; 
+    width: 53%;
     padding: 90px 40px ;
     gap: 24px;
     border: 1px;
@@ -277,7 +277,7 @@ footer img{
     color: #FFFFFF;
 }
 
-@media screen and (max-width: 376px ) {
+@media screen and (max-width: 375px ) {
     nav a {
         display: none;
     }
@@ -340,7 +340,6 @@ footer img{
 
     .Second_container{
         padding: 16px 30px;
-
     }
 
     .Second_container .four{
@@ -371,14 +370,12 @@ footer img{
     .third_container{
       padding:0 15px;
       width: 100%;
-
     }
     
     .third_container .img3{
        display: none; 
     }
     
-    }
     .recommendation{
         width: 100%; 
         position: relative;
@@ -447,3 +444,4 @@ footer img{
         padding: 16px 20px;        
 }
 }
+
